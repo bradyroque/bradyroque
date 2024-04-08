@@ -4,9 +4,9 @@
 - <b>Azure / Cloud Projects (AlgoExpert)</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/bradyroque/Cloud-SOC-Azure)
 
-<h2>📺 Popular YouTube Videos</h2>
+### <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
+### - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
 
 
 <h2> 🤳 Connect with me:</h2>
