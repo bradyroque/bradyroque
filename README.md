@@ -15,7 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bradyroque_)](https://twitter.com/bradyroque_)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/bradyroque)](https://linkedin.com/in/bradyroque)
 
-
+**Note:** This portfolio is a work in progress. Check back for updates!
 <!--
 **bradyroque/bradyroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
