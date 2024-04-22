@@ -11,7 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/)](https://www.youtube.com/)
+<!-- [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/)](https://www.youtube.com/)-->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bradyroque_)](https://twitter.com/bradyroque_)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/bradyroque)](https://linkedin.com/in/bradyroque)
 
