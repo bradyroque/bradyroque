@@ -3,7 +3,8 @@
 
 - <b>Cybersecurity Projects </b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/bradyroque/Cloud-SOC-Azure)
-  - [Attack-and-Defense-in-EDR](https://github.com/bradyroque/Attack-and-Defense-in-EDR/tree/main)
+  - [Attack and Defense in EDR](https://github.com/bradyroque/Attack-and-Defense-in-EDR/tree/main)
+  - [TryHackMe SOC Level 1](https://github.com/bradyroque/TryHackMe-SOC-Level-1)
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
