@@ -1,7 +1,7 @@
 <h1>Hi, I'm Brady! Passionate <a href="https://www.linkedin.com/in/bradyroque/">Cybersecurity Professional</a>
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure / Cloud Projects (AlgoExpert)</b>
+- <b>Cybersecurity Projects </b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/bradyroque/Cloud-SOC-Azure)
   - [Attack-and-Defense-in-EDR](https://github.com/bradyroque/Attack-and-Defense-in-EDR/tree/main)
 
