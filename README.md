@@ -4,8 +4,11 @@
 - <b>Cybersecurity Projects </b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/bradyroque/Cloud-SOC-Azure)
   - [Attack and Defense in EDR](https://github.com/bradyroque/Attack-and-Defense-in-EDR/tree/main)
-  - [TryHackMe SOC Level 1](https://github.com/bradyroque/TryHackMe-SOC-Level-1)
-
+  - [TryHackMe Jr Penetration Tester (in progress)](https://github.com/bradyroque/TryHackMe-SOC-Level-1)
+  - [TryHackMe SOC Level 1 (in progress)](https://github.com/bradyroque/TryHackMe-SOC-Level-1)
+  
+- <b>Certifications </b>
+  - [CompTIA Security+](https://www.credly.com/badges/39b5400e-88e8-4ea5-8136-4486e0b1bbc4)
 <!-- <h2>📺 Popular YouTube Videos</h2>
 
  - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
