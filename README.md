@@ -4,7 +4,7 @@
 - <b>Cybersecurity Projects </b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/bradyroque/Cloud-SOC-Azure)
   - [Attack and Defense in EDR](https://github.com/bradyroque/Attack-and-Defense-in-EDR/tree/main)
-  - [TryHackMe Jr Penetration Tester (in progress)](https://github.com/bradyroque/TryHackMe-SOC-Level-1)
+  - [TryHackMe Jr Penetration Tester (in progress)](https://github.com/bradyroque/TryHackMe-Jr-Penetratior-Tester)
   - [TryHackMe SOC Level 1 (in progress)](https://github.com/bradyroque/TryHackMe-SOC-Level-1)
   
 - <b>Certifications </b>
